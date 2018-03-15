@@ -1,6 +1,6 @@
 h1 {
 	font-family:'PT Sans', sans-serif;
-	color: black;
+	color: white;
 	font-size: 80px;
 	font-weight: bold;
 
@@ -8,7 +8,7 @@ h1 {
 
 h2{
 	font-family:'PT Sans', sans-serif;
-	color: #E7A977;
+	color: #84112C;
 	font-size: 22px;
 	text-align: center;
 
@@ -34,8 +34,8 @@ a:hover {
 }
 
 #banner {
-	background-image: url(images/empire.jpg);
-	background-image: cover;
+	background-image: url(images/milkyway.jpg);
+	background-image: top center;
 	opacity:0,1;
 	opacity:all;
 	border:double;
