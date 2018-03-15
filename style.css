@@ -1,0 +1,65 @@
+h1 {
+	font-family:'PT Sans', sans-serif;
+	color: black;
+	font-size: 80px;
+	font-weight: bold;
+
+}
+
+h2{
+	font-family:'PT Sans', sans-serif;
+	color: #E7A977;
+	font-size: 22px;
+	text-align: center;
+
+}
+
+body{
+  background: rgb(245,245,245);
+  color:black;
+  font-size: 15px;
+  font-family:'PT Sans', sans-serif;
+  font-weight: lighter;
+
+}
+
+a {
+  color: #306B34;
+  font-size: 15px;
+
+}
+a:hover {
+  text-decoration: none;
+  color: #E7A977;
+}
+
+#banner {
+	background-image: url(images/empire.jpg);
+	background-image: cover;
+	opacity:0,1;
+	opacity:all;
+	border:double;
+	border-color:white;
+	border-width: 1px;
+	border-radius: 8px;
+	background-size: cover;
+	padding: 100px;
+	text-align: center;
+}
+
+#card {
+	text-align: center;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  }
+
+ #footer li{
+ 	font-size: 25px;
+ }
+ #footer a{
+ 	color:lightgrey;
+ }
+
